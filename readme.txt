@@ -1,3 +1,5 @@
+DVD => MP4 Concatenator for Youtube
+
 version v1alpha = premiere version => concaténation des fichiers vob du dvd
 version v1beta = version avec option de réencoder chaque vob en ts avec le son compatible youtube puis concat MP4
 
